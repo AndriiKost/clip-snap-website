@@ -17,9 +17,9 @@ app_description                           : Effortlessly create video highlights
 enable_smart_app_banner                   : true                                      # Displays a smart app banner for iOS devices.
 
 # Information About Yourself
-your_name                                 : Your Name                                
-your_link                                 : https://yourwebsite.com                  
-your_city                                 : Your City                                
+your_name                                 : Andrii Kost                                
+your_link                                 : hello@clipsnap.io
+your_city                                 : Austin, TX
 email_address                             : yourname@example.com                     
 facebook_username                         : yourfacebookusername                     
 instagram_username                        : yourinstagramusername                    
