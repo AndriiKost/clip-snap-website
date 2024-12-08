@@ -4,57 +4,75 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**Effective Date:** December 8, 2024
 
-<br>
+## 1. Overview
+ClipSnap respects your privacy and does not collect, store, or share any personal data.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+## 2. Data Collection and Usage
+- **No Data Collection:** ClipSnap operates entirely on your device. We do not collect or process any data.
+- **Videos and Media:** All video editing occurs locally on your device. ClipSnap does not transmit your videos, media, or any other data outside of your device.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## 3. Third-Party Services
+- ClipSnap does not integrate with any third-party services for analytics, advertising, or data tracking.
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+## 4. Your Consent
+By using ClipSnap, you consent to this privacy policy.
 
-<br>
+## 5. Changes to This Privacy Policy
+We may update this privacy policy to reflect changes in the app. Any updates will be posted here with the new effective date.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+## 6. Contact Us
+If you have questions about this privacy policy, contact us at:  
+Email: hello@clipsnap.io
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+---
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+# Terms of Use
 
-<br>
+**Effective Date:** December 8, 2024
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+## 1. Introduction
+These Terms of Use govern your use of the ClipSnap app. By downloading or using ClipSnap, you agree to these terms.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+## 2. App Use
+- ClipSnap is provided for personal use only.
+- You are responsible for ensuring you comply with copyright laws when editing or saving videos using ClipSnap.
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 3. Limitation of Liability
+- ClipSnap is provided "as-is" without warranties of any kind.
+- We are not liable for any damages resulting from your use of the app.
 
-<br>
+## 4. Intellectual Property
+- You retain full ownership and responsibility for the videos you edit using ClipSnap.
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+## 5. Updates and Termination
+- We may update or discontinue the app without notice.
+- Continued use of the app following updates constitutes acceptance of new terms.
 
-<br>
+## 6. Governing Law
+These terms are governed by the laws of the State of Texas, without regard to its conflict of laws principles..
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+## 7. Contact Information
+For questions about these terms, contact us at:  
+Email: hello@clipsnap.io
+
+---
+
+# Disclosures
+
+## 1. Data Access and Permissions
+ClipSnap requires the following permissions:
+- **Photos and Videos:** To select and edit videos on your device.
+- **Storage:** To save edited videos.
+
+All data is processed locally, and no data is transmitted or stored externally.
+
+## 2. App Store Disclosures
+ClipSnap complies with App Store policies, and no data is collected from users.
+
+---
+
+**Note:** ClipSnap is not intended for children under 13 years old. By using the app, you confirm that you are at least 13 years old or have parental consent to use the app.
