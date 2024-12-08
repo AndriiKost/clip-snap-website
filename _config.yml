@@ -9,7 +9,7 @@ appstore_link                             :                                     
 playstore_link                            :                                           # Leave blank if only for iOS.
 presskit_download_link                    : https://yourwebsite.com/presskit.zip      # Replace with a downloadable link to your press kit.
 
-app_icon                                  : assets/clipsnap_icon.png                 # Replace with the path to your app icon.
+app_icon                                  : assets/IMG_6112.PNG
 app_name                                  : ClipSnap                                 # Automatically populates with the iOS app ID or enter manually.
 app_price                                 : Free                                     # Update according to the app's pricing.
 app_description                           : Effortlessly create video highlights from your favorite moments.
