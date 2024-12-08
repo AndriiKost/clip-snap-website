@@ -1,93 +1,77 @@
-#page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+# Page Title
+page_title                                : ClipSnap - Simplify Your Video Editing
 
 # App Info
-ios_app_id                                : 1234793120                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
-ios_app_country                           : us                                        # Required outside USA. Enter 2 letter country code as in https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
+ios_app_id                                : 1234793120                                # Replace with your actual iOS App ID.
+ios_app_country                           : us                                        # Enter the appropriate country code.
 
-appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
+appstore_link                             :                                           # Automatically populates with the iOS app ID.
+playstore_link                            :                                           # Leave blank if only for iOS.
+presskit_download_link                    : https://yourwebsite.com/presskit.zip      # Replace with a downloadable link to your press kit.
 
-app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Write a short tagline for your app.
+app_icon                                  : assets/clipsnap_icon.png                 # Replace with the path to your app icon.
+app_name                                  : ClipSnap                                 # Automatically populates with the iOS app ID or enter manually.
+app_price                                 : Free                                     # Update according to the app's pricing.
+app_description                           : Effortlessly create video highlights from your favorite moments.
 
-enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
-
-
+enable_smart_app_banner                   : true                                      # Displays a smart app banner for iOS devices.
 
 # Information About Yourself
-your_name                                 : Emil Baehr                                
-your_link                                 : https://emilbaehr.com                     
-your_city                                 : Copenhagen                                
-email_address                             : emil.baehr@gmail.com
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : ebaehr
-github_username                           : emilbaehr
-youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+your_name                                 : Your Name                                
+your_link                                 : https://yourwebsite.com                  
+your_city                                 : Your City                                
+email_address                             : yourname@example.com                     
+facebook_username                         : yourfacebookusername                     
+instagram_username                        : yourinstagramusername                    
+twitter_username                          : yourtwitterusername                     
+github_username                           : yourgithubusername                      
+youtube_username                          : youryoutubeusername                     
+mastodon_link                             : https://mastodon.social/@yourusername    
 
-
-
-# Feature List                            Edit, add or remove features to be presented.
+# Feature List
 features                                  :
-
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Automatic Scene Selection
+    description                           : Let ClipSnap find the best scenes from your videos for seamless editing.
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Simple & Intuitive
+    description                           : No steep learning curve—edit videos with just a few taps.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Time-Saving Automation
+    description                           : Spend less time editing and more time enjoying your memories.
+    fontawesome_icon_name                 : clock
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Privacy First
+    description                           : Your videos stay on your device. We never collect your data.
+    fontawesome_icon_name                 : shield-alt
 
   - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+    description                           : Easily download the app with the Smart App Banner.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Social Sharing
+    description                           : Quickly share your highlights with friends and family.
+    fontawesome_icon_name                 : share-alt
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Family-Friendly
+    description                           : So simple, even a child can use it to create video highlights.
+    fontawesome_icon_name                 : child
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
-
+  - title                                 : No Hidden Fees
+    description                           : ClipSnap is free to use with no in-app purchases.
+    fontawesome_icon_name                 : dollar-sign
 
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/clipsnap_cover.jpg                # Replace with the path to your cover image.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black                                     # Set to: blue, black, yellow, coral, or white.
 
 body_background_color                     : "#ffffff"
 
@@ -107,18 +91,6 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
-
-
-
-
-
-
-
-
-
-
-
-
 
 ####################################################
 ### Jekyll Configuration. No need to touch this. ###
