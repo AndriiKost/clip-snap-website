@@ -20,3 +20,23 @@ include_in_header: true
 
 Download ClipSnap today and start turning your videos into unforgettable memories with ease!  
 <br>
+
+---
+
+### 🔮 What’s Next? 
+
+We’re just getting started! Here’s a sneak peek at what’s on the horizon for ClipSnap:
+
+- **Next Gen AI Video Model**: Improve scene detection, clip selection and other video processes.
+- **Advanced Customization**: Tailor your video summaries with even more options to fit your unique style.
+- **Language Support**: ClipSnap will soon speak your language! Stay tuned for additional languages.
+- **Enhanced Video Processing**: Experience smoother performance for high-resolution footage.
+- **Improvements in Video Timeline**: Experience more advanced, smoother performance for high-resolution footage and others.
+
+Have ideas for features or improvements? We’d love to hear from you! Send us your feedback, and help shape the future of ClipSnap.  
+
+Download ClipSnap today and join the community creating incredible video memories effortlessly. Thank you for being part of this journey—we’re just getting started! 🚀  
+
+Share your creations with #MadeInClipSnap and show off your highlights to the world!  
+
+<br>
