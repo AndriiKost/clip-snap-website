@@ -2,15 +2,15 @@
 page_title                                : ClipSnap - Simplify Your Video Editing
 
 # App Info
-ios_app_id                                : 1234793120                                # Replace with your actual iOS App ID.
+ios_app_id                                : 6739232121                                # Replace with your actual iOS App ID.
 ios_app_country                           : us                                        # Enter the appropriate country code.
 
 appstore_link                             :                                           # Automatically populates with the iOS app ID.
 playstore_link                            :                                           # Leave blank if only for iOS.
-presskit_download_link                    : https://yourwebsite.com/presskit.zip      # Replace with a downloadable link to your press kit.
+presskit_download_link                    : https://clipsnap.io/changelog/      # Replace with a downloadable link to your press kit.
 
 app_icon                                  : assets/appicon.png
-app_name                                  : ClipSnap                                 # Automatically populates with the iOS app ID or enter manually.
+app_name                                  : ClipSnap - Simple Video Editor
 app_price                                 : Free                                     # Update according to the app's pricing.
 app_description                           : Effortlessly create video highlights from your favorite moments.
 
@@ -20,13 +20,8 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Andrii Kost                                
 your_link                                 : hello@clipsnap.io
 your_city                                 : Austin, TX
-email_address                             : yourname@example.com                     
-facebook_username                         : yourfacebookusername                     
-instagram_username                        : yourinstagramusername                    
-twitter_username                          : yourtwitterusername                     
-github_username                           : yourgithubusername                      
-youtube_username                          : youryoutubeusername                     
-mastodon_link                             : https://mastodon.social/@yourusername    
+email_address                             : hello@clipsnap.io                                
+instagram_username                        : clipsnapapp                     
 
 # Feature List
 features                                  :
@@ -92,15 +87,10 @@ social_icons_background_color             : "#e6e6e6"
 
 footer_text_color                         : "#666666"
 
-####################################################
-### Jekyll Configuration. No need to touch this. ###
-####################################################
-
-# Set the Sass partials directory, as we're using @imports
+# Jekyll Configuration. No need to touch this.
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
-# Exclude these files from your production _site
 exclude:
   - LICENSE
   - README.md
@@ -111,5 +101,4 @@ collections:
     output: true
     permalink: /:path/
 
-# Markdown rendering
 markdown: kramdown
