@@ -4,13 +4,16 @@ title: What's New
 include_in_header: true
 ---
 
-## 🚀 What's New in patch v1.1.0 
-Pause button is here! As well as increased video selection limit (old 25 new 50)
+## 🚀 What's New in Patch v1.1.0 
+
+We’re excited to bring you some great improvements and a handy new feature:
+- **New Pause Button:** Easily pause video playback while editing on the timeline.
+- **Expanded Video Selection:** Optimized memory management now lets you select up to **50 videos** (previous limit: 25).
 
 ### 🌟 Key Improvements:
-- **Performance**: Improves memory management when processing videos, allowing to select more videos now (old limit was 25 the new limit is 50 videos)
-- **UI & UX**: Styling improvements on the video selection and clip management screen
-- **New Feature**: Pause button to conviniently pause video playback while editing and interacting with the video timeline.
+- **Performance Boost:** Enhanced memory management increases the video selection limit for smoother processing.
+- **Improved UI & UX:** Fresh styling on the video selection and clip management screens for a more intuitive experience.
+- **New Functionality:** The newly added pause button in the video timeline editor allows you to pause playback at any moment during editing.
 
 Download ClipSnap today and start turning your videos into unforgettable memories with ease!  
 <br>
