@@ -4,9 +4,23 @@ title: What's New
 include_in_header: true
 ---
 
-## 🚀 What's New: ClipSnap v0.1.0
+## 🚀 What's New in patch v1.1.0 
+Pause button is here! As well as increased video selection limit (old 25 new 50)
 
-**ClipSnap v0.1.0 is here!** 🎉 Say goodbye to complex video editing and hello to effortless video highlights. Designed for adventurers, parents, and creators alike, ClipSnap makes editing fun, fast, and easy.
+### 🌟 Key Improvements:
+- **Performance**: Improves memory management when processing videos, allowing to select more videos now (old limit was 25 the new limit is 50 videos)
+- **UI & UX**: Styling improvements on the video selection and clip management screen
+- **New Feature**: Pause button to conviniently pause video playback while editing and interacting with the video timeline.
+
+Download ClipSnap today and start turning your videos into unforgettable memories with ease!  
+<br>
+
+---
+
+
+## 🚀 What's New: ClipSnap v1.0.0
+
+**ClipSnap v1.0.0 is here!** 🎉 Say goodbye to complex video editing and hello to effortless video highlights. Designed for adventurers, parents, and creators alike, ClipSnap makes editing fun, fast, and easy.
 
 ### 🌟 Key Features:
 - **Smart Scene Selection**: Automatically find the best moments in your videos—no manual edits needed!
@@ -23,7 +37,7 @@ Download ClipSnap today and start turning your videos into unforgettable memorie
 
 ---
 
-### 🔮 What’s Next? 
+## 🔮 What’s Next? 
 
 We’re just getting started! Here’s a sneak peek at what’s on the horizon for ClipSnap:
 
